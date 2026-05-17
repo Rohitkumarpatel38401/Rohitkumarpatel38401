@@ -14,27 +14,27 @@ I am a passionate Software Engineer with 1.5+ years of professional experience s
 
 #### 🎨 Frontend Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap" alt="Frontend Stacks" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Frontend Stacks" />
 </p>
 
 #### ⚡ JavaScript Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,vue,react,angular,nextjs,jquery" alt="JS Stacks" />
+  <img src="https://skillicons.dev/icons?i=js,vue,angular,jquery" alt="JS Stacks" />
 </p>
 
 #### 🛠️ Backend Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,symfony" alt="Backend Stacks" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Stacks" />
 </p>
 
 #### 🗄️ Database & Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database Stacks" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Stacks" />
 </p>
 
 #### 📝 Version Control & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,postman" alt="Tools" />
 </p>
 
 ---
