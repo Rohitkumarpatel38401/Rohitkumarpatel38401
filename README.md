@@ -85,8 +85,8 @@ I am a passionate Software Engineer with 1.5+ years of professional experience s
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Rohit's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarpatel38401&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitkumarpatel38401&show_icons=true&theme=tokyonight&count_private=true" alt="Rohit's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkumarpatel38401&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
@@ -94,7 +94,7 @@ I am a passionate Software Engineer with 1.5+ years of professional experience s
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/rohit-kumar-patel-079b0024b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
