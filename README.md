@@ -86,7 +86,7 @@ I am a passionate Software Engineer with 1.5+ years of professional experience s
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Rohit's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkumarpatel38401&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
